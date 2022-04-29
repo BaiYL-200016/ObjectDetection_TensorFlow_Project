@@ -22,18 +22,21 @@ $ conda create -n <env_name> python=3.8 -y
 `<env_name>`为虚拟环境名称。
 
 附：```$ conda env list```查看当前虚拟环境。
+
 2. 激活虚拟环境
 
 ```bash
 $ conda activate <...\object_detection\env_name>或<env_name>
 ```
 可以看到虚拟环境已经激活（命令行前带有环境名称或路径），可以在虚拟环境下运行Python命令。
+
 3. 安装TensorFlow包
 
 ```bash
 $ conda install tensorflow=2.6.0/tensorflow-gpu=2.6.0 -y
 ```
 这里根据自己的python版本安装指定版本TensorFlow包，查询网址<https://tensorflow.google.cn/install/source_windows#tested_build_configurations>，若需要选择GPU版本，如果不需要GPU，则使用CPU版本。
+
 4. 安装需求包
 
 ```bash 
