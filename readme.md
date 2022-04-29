@@ -42,7 +42,7 @@ $ conda install tensorflow=2.6.0/tensorflow-gpu=2.6.0 -y
 ```bash 
 $ pip install -r <...\object_detection\requirements.txt>
 ```
-5. 安装jupyter notebook内核
+5. 创建jupyter notebook内核
 
 ```bash
 $ python -m ipykernel install --user --name=<kernel_name>
