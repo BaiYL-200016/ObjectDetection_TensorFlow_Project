@@ -12,12 +12,12 @@
 （1）在指定路径下创建虚拟环境
 
 ```bash
-$ conda create -p <...\object_detection\env_name> python=3.8 -y
+$ conda create -p <...\object_detection\env_name> python=3.x -y
 ```
 （2）在Anaconda安装路径下创建虚拟环境
 
 ```bash
-$ conda create -n <env_name> python=3.8 -y
+$ conda create -n <env_name> python=3.x -y
 ````
 `<env_name>`为虚拟环境名称。
 
@@ -33,9 +33,9 @@ $ conda activate <...\object_detection\env_name>或<env_name>
 3. 安装TensorFlow包
 
 ```bash
-$ conda install tensorflow=2.6.0/tensorflow-gpu=2.6.0 -y
+$ pip install tensorflow=2.6.0/tensorflow-gpu=2.6.0 -y
 ```
-这里根据自己的python版本安装指定版本TensorFlow包，查询网址<https://tensorflow.google.cn/install/source_windows#tested_build_configurations>，若需要选择GPU版本，如果不需要GPU，则使用CPU版本。
+这里根据自己的python版本安装指定版本TensorFlow包，查询网址<https://tensorflow.google.cn/install/source_windows?hl=en#tested_build_configurations>，若需要选择GPU版本，如果不需要GPU，则使用CPU版本。
 
 4. 安装需求包
 
