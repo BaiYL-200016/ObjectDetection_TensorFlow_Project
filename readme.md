@@ -7,13 +7,14 @@
 
 - 法一：进入[Anaconda官网](https://www.anaconda.com)进行下载安装(网络问题可能无法访问，建议使用法二)；
 
-![Anaconda官网](\snap\download.png)  
+<img src="https://github.com/BaiYL-200016/ObjectDetection_TensorFlow_Project/blob/master/snap/download.png" width="60%">
+<!-- ![Anaconda官网]([\snap\download.png](https://github.com/BaiYL-200016/ObjectDetection_TensorFlow_Project/blob/master/snap/download.png))   -->
 
 - 法二：通过[清华大学镜像源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=D)进行下载安装。
 
 ![清华大学镜像源](\snap\Tsinghua.png)  
 
-2. 安装：  
+1. 安装：  
 
 安装过程需要注意两点：
 
