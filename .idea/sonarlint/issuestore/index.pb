@@ -3,8 +3,6 @@
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
-9
-	readme.md,2\7\275d783e298228506068436512433d343feb52aa
 w
 G.idea/sonarlint/issuestore/e/d/ed55283d435209c591b331ca211cc0a7bcdd6964,6\1\61cb3fa1becc7ac1973b7f6b9b1788ed3501162d
 w
@@ -617,3 +615,29 @@ w
 G.idea/sonarlint/issuestore/d/4/d4932bf8d13d81f0bacb45f7a958c520181ec1fe,0\4\049773e5a0db0d6fe974fbcaa35588fe7fdac130
 w
 G.idea/sonarlint/issuestore/d/2/d2c82ffe6478ba07be840be8e02493914e5db47d,d\5\d503405dab12546ed053e1bc552e87637e34b689
+9
+	rename.py,e\a\ea6217d915ee2bd8ef5b9284e13bc636506f67e5
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+=
+xml_to_csv.py,2\4\24a8c4ca2764a42611d1c64993221e8251ae4cef
+M
+annotations/test/apple_78.xml,c\a\ca86f12e01d35ea73fc0d3cc4ce541e31a9ff08d
+:
+
+example.py,0\5\05e0372f8165776bed0a53b989eaffd9e3139848
+>
+test_camera.py,3\1\31d9e5b35cb931f27637c7e1344723744403f370
+7
+test.py,a\3\a36e355ddb203d7d4133221f339dc406cb9f480f
+;
+train.ipynb,7\5\752410a2d9604b94e8a374a61db710db615f8883
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+C
+object_detection.py,9\4\94f8d3f7d9f77b2b1bac493c780087711c3b9d37
+9
+	detect.py,d\f\df3fc1deeef1315404cd01cda40c9a57591f50b7

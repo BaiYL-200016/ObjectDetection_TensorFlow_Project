@@ -1,0 +1,4 @@
+
+|python:S117""^Rename this local variable "test_Anno_dir" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂŸì†8õõöò‰0
+}python:S117"_Rename this local variable "train_Anno_dir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬æœ¯8öõöò‰0
+~python:S117"`Rename this local variable "valide_Anno_dir" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùë¤æ8öõöò‰0
