@@ -7,7 +7,7 @@
 
 - 法一：进入[Anaconda官网](https://www.anaconda.com)进行下载安装(网络问题可能无法访问，建议使用法二)；
 
-<img src="https://github.com/BaiYL-200016/ObjectDetection_TensorFlow_Project/blob/master/snap/download.png" width="60%" align="middle">
+<img src="https://github.com/BaiYL-200016/ObjectDetection_TensorFlow_Project/blob/master/snap/download.png" width="60%" div align=center/>
 
 
 - 法二：通过[清华大学镜像源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=D)进行下载安装。
